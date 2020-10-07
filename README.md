@@ -1,16 +1,13 @@
-# login_form
+# Register-Login-App-Flutter
 
-A new Flutter project.
+Simple Register/Login app in flutter/firebase.
 
-## Getting Started
+Step 1: Clone this file in your desired folder
 
-This project is a starting point for a Flutter application.
+Step2: pub get
 
-A few resources to get you started if this is your first Flutter project:
+Step 3: Make a project in Firebase console
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Step 4: Copy the API_KEY and place in it [API_KEY] in authentication.dart
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+step 5: run the app
